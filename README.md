@@ -1,5 +1,5 @@
 Hi, I'm KUSHAL
- 
+
 - 🌱 I'm a CSE undergraduate at SVCE,
 - 😵 Currently trippin on MERN,
 - 📫 lets talk kushaljr@outlook.com
