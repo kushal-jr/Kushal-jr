@@ -1,9 +1,8 @@
 Hi, I'm KUSHAL
 
-- 👀 I’m interested in Anime and Games
-- 🌱 I’m currently pursuing Bachelor of Engineering CSE
-- 💞️ I’m looking to collaborate on UI/UX designers
-- 📫 Send me a mail then kushaljr@outlook.com
+- 🌱 I'm a CSE undergraduate at SVCE,
+- 😵 Currently trippin on MERN,
+- 📫 lets talk kushaljr@outlook.com
 
 <!---
 Kushal-jr/Kushal-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
