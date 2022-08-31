@@ -1,4 +1,4 @@
-Hi, I'm KUSHAL
+Hi, I'm Kushal
 
 - 🌱 I'm a CSE undergraduate at SVCE,
 - 😵 Currently trippin on MERN,
