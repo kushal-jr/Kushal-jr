@@ -1,7 +1,7 @@
-Hi, I'm Kushal
+## Hi, I'm Kushal
 
 - 🌱 I'm a CSE undergraduate at SVCE,
-- 😵 Currently trippin on MERN,
+- 🐱‍💻 Learning MERN,
 - 📫 lets talk kushaljr@outlook.com
 
 <!---
