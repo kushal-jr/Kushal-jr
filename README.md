@@ -6,7 +6,7 @@
 
 ## Snake eating my rare contributions -
 
-![snake gif](https://github.com/Kushal-jr/Kushal-jr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kushal-jr/Kushal-jr/blob/output/github-contribution-grid-snake.gif)
 
 ## Stats -
 
