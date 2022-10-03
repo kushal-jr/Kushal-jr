@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kushal
 
-- 🌱 I'm a CSE undergraduate at SVCE,
-- 🐱‍💻 JavaScript is awesome,
+- 🌱 I'm a Computer Science undergraduate at SVCE,
+- 🐱‍💻 Parallel persistent,
 - 📫 lets talk kushaljr@outlook.com
 
 ## Snake eating my rare contributions -
